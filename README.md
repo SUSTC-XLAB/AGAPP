@@ -7,3 +7,9 @@
 * Acoustic detection
 * Near-infrared spectral detection
 * Image recognition 
+## Application scenarios
+* Detection the health status of crops
+* Detecting which disease of the crop is infected
+* Analysis of treatment strategies for crops
+## Target market
+* Large farms
