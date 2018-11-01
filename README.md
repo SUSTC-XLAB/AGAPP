@@ -1,38 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SUSTC-XLAB/AGAPP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### AG APP
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Project profiles
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SUSTC-XLAB/AGAPP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+# Crop health assistant
+## Project profiles
+* Diagnosis and identification of diseases for crops
+## Background Information
+* In order to ensure the effective and reasonable application of pesticides to control crop diseases, agricultural producers must accurately obtain the growth information of crops, so that agricultural producers can quickly and accurately diagnose the causes and degree of diseases of affected crops according to the disease information obtained. With the continuous enhancement of computer processing capacity and the rapid development of image processing and recognition technology, digital image processing and recognition technology is more and more widely used in agriculture, and will become an important technical force to realize agricultural informatization and automation. Agricultural information collection has a huge workload, the real-time and accuracy of information is a common concern in the field of agricultural production and scientific research. How to quickly and timely determine crop diseases accurately has been an important part of computer technology research in the field of agriculture.[http://cdmd.cnki.com.cn/Article/CDMD-10157-2009194421.htm](url)
