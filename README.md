@@ -13,7 +13,7 @@
 * Acoustic detection
 * Near-infrared spectral detection
 * Image recognition 
-## Research steps
+## Research steps 
 * Selecting technical means
 * Data acquisition
 * Analyze data and find rules
