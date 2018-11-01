@@ -1,5 +1,5 @@
 # 农作物健康助手 
-  Crop health assistant
+# Crop health assistant
 ## 项目简介 
 ## Project Profiles
 * 识别和诊断农作物病变
